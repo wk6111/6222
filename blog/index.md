@@ -1,8 +1,8 @@
 ---
-title: Blog
-menus:
-  main:
-    title: Blog
-    weight: 3
+title: 博客
 layout: blog
+menu:
+  main:
+    weight: 3
+
 ---
