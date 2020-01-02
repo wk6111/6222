@@ -1,10 +1,11 @@
 ---
-title: Contact
-menus:
-  main:
-    title: Contact
-    weight: 5
+title: 联系
 layout: contact
----
+subtitle: ''
+img_path: ''
+menu:
+  main:
+    weight: 5
 
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+---
+嗨，您好！非常感谢您有兴趣合作。请填写下面的联系表，或通过[example@example.com](mailto:example@example.com)向我们发送电子邮件。
