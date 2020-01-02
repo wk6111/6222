@@ -1,13 +1,12 @@
 ---
-title: 可
+title: 首页
 sections:
 - type: heroblock
   template: heroblock
   title: Hi, I'm Stackbit Exto Portfolio Theme.
   section_id: hero
   component: hero_block.html
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: 此部分可以包含字幕或标语。建议的长度是一到三个句子，但可以根据需要更改。
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
